@@ -7,7 +7,6 @@
 <br />
  <a href="https://yj-zero.tistory.com/" target="_blank"><img height="25" src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a> <img height="25" src="https://img.shields.io/badge/DevCourse-1a237e?style=for-the-badge&logoColor=white">
 
-I'm Studying in programmers's Frontend devcourse
 
 ### 🛠Tech Stack🛠
  
