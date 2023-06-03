@@ -5,7 +5,8 @@
 ### Hi! I'm Jiyoung☺
 <br/>
 <br />
- <a href="https://yj-zero.tistory.com/" target="_blank"><img height="25" src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a> <img height="25" src="https://img.shields.io/badge/DevCourse-1a237e?style=for-the-badge&logoColor=white">
+ <a href="https://yj-zero.tistory.com/" target="_blank"><img height="25" src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a> <a href="https://drive.google.com/file/d/17yRcNWB_bCFhvVSfcg8nY3aCk9-5Nrh-/view?usp=sharing"><img height="25" src="https://img.shields.io/badge/Resume-1a237e?style=for-the-badge&logoColor=white"></a>
+ <a href="https://drive.google.com/file/d/1OTsBx8MUQns5HTD6g3wUfrXvQ69hFH_E/view?usp=sharing"><img height="25" src="https://img.shields.io/badge/Portfolio-0ca678?style=for-the-badge&logoColor=white"></a>
 
 
 ### 🛠Tech Stack🛠
